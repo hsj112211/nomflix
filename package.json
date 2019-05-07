@@ -27,6 +27,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+  //여기서부터 막힘
   "homepage": "https://hsj112211.github.io/nomflix",
   "browserslist": [
     ">0.2%",
